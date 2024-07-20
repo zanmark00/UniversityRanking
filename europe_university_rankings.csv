@@ -1,0 +1,11 @@
+Seq,Rank,University,City,Country,Score
+1,2,University of Cambridge,Cambridge,United Kingdom,98.8
+2,4,University of Oxford,Oxford,United Kingdom,98.4
+3,6,Imperial College London,London,United Kingdom,97.0
+4,8,UCL,London,United Kingdom,95.0
+5,9,ETH Zurich,Zürich,Switzerland,93.6
+6,15,The University of Edinburgh,Edinburgh,United Kingdom,89.5
+7,16,EPFL,Lausanne,Switzerland,89.2
+8,26,Université PSL,Paris,France,83.8
+9,28,The University of Manchester,Manchester,United Kingdom,82.3
+10,37,King's College London,London,United Kingdom,81.2

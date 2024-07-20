@@ -1,0 +1,11 @@
+Seq,Rank,University,City,Country,Score
+1,1,Massachusetts Institute of Technology (MIT),Cambridge,United States,100
+2,3,Stanford University,Stanford,United States,98.5
+3,5,Harvard University,Cambridge,United States,97.6
+4,6=,California Institute of Technology (Caltech),Pasadena,United States,97
+5,10,University of Chicago,Chicago,United States,93.2
+6,13,University of Pennsylvania,Philadelphia,United States,90.6
+7,16=,Princeton University,Princeton,United States,89.2
+8,18,Yale University,New Haven,United States,89
+9,20,Cornell University,Ithaca,United States,87.2
+10,22,Columbia University,New York City,United States,86.7
